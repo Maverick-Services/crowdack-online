@@ -50,7 +50,7 @@ export default function Footer() {
                                         alt="Legal Services Logo"
                                         layout="fill"
                                         objectFit="contain"
-                                        className="filter brightness-0 invert"
+                                        className=""
                                     />
                                 </div>
                             </div>
