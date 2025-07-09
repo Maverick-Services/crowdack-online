@@ -23,7 +23,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata = {
-  title: "CA Vakeel",
+  title: "Crowdack",
 };
 
 export default function RootLayout({ children }) {
