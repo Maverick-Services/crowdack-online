@@ -195,7 +195,7 @@ export default function Footer() {
                 {/* Bottom section */}
                 <div className="border-t border-[#0055aa] pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <div className="text-gray-300 text-sm">
-                        © {new Date().getFullYear()} CA Vakeel. All rights reserved.
+                        © {new Date().getFullYear()} Crowdack. All rights reserved.
                     </div>
 
                     <div className="text-sm text-gray-400">
