@@ -61,7 +61,7 @@ const AuthDialog = ({ open, onOpenChange }) => {
                 <div className="p-8">
                     <DialogHeader>
                         <DialogTitle className="text-center text-3xl font-bold text-[#003366] mb-5">
-                            Welcome to CA Vakeel
+                            Welcome to Crowdack
                         </DialogTitle>
                     </DialogHeader>
 

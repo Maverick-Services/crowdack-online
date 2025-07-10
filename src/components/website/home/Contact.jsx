@@ -44,7 +44,7 @@ export default function Contact() {
                             </div>
 
                             <div className="space-y-8">
-                                <div className="flex items-start">
+                                {/* <div className="flex items-start">
                                     <div className="flex-shrink-0 mt-1 w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center">
                                         <FaMapMarkerAlt className="text-[#00564F] text-xl" />
                                     </div>
@@ -52,9 +52,9 @@ export default function Contact() {
                                         <h4 className="font-bold text-gray-800 mb-1">Address</h4>
                                         <p className="text-gray-600">123 Legal Street, New Delhi, India – 110001</p>
                                     </div>
-                                </div>
+                                </div> */}
 
-                                <div className="flex items-start">
+                                {/* <div className="flex items-start">
                                     <div className="flex-shrink-0 mt-1 w-12 h-12 rounded-full bg-teal-50 flex items-center justify-center">
                                         <FaBuilding className="text-[#00564F] text-xl" />
                                     </div>
@@ -62,9 +62,9 @@ export default function Contact() {
                                         <h4 className="font-bold text-gray-800 mb-1">Office</h4>
                                         <p className="text-gray-600">Legal Tower, 5th Floor, Suite 502</p>
                                     </div>
-                                </div>
+                                </div> */}
 
-                                <div className="flex items-start">
+                                {/* <div className="flex items-start">
                                     <div className="flex-shrink-0 mt-1 w-12 h-12 rounded-full bg-cyan-50 flex items-center justify-center">
                                         <FaPhone className="text-[#00564F] text-xl" />
                                     </div>
@@ -76,7 +76,7 @@ export default function Contact() {
                                             <span>Available on WhatsApp</span>
                                         </div>
                                     </div>
-                                </div>
+                                </div> */}
 
                                 <div className="flex items-start">
                                     <div className="flex-shrink-0 mt-1 w-12 h-12 rounded-full bg-indigo-50 flex items-center justify-center">
@@ -84,8 +84,8 @@ export default function Contact() {
                                     </div>
                                     <div className="ml-4">
                                         <h4 className="font-bold text-gray-800 mb-1">Email</h4>
-                                        <p className="text-gray-600">contact@legalexperts.com</p>
-                                        <p className="text-gray-600">support@legalexperts.com</p>
+                                        <p className="text-gray-600">contact@crowdack.com</p>
+                                        <p className="text-gray-600">support@crowdack.com</p>
                                     </div>
                                 </div>
 
@@ -128,7 +128,7 @@ export default function Contact() {
                             <ContactForm />
 
                             {/* Additional info */}
-                            <div className="mt-10 pt-8 border-t border-gray-200">
+                            {/* <div className="mt-10 pt-8 border-t border-gray-200">
                                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                     <div className="bg-blue-50 rounded-xl p-4 text-center">
                                         <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-blue-100 text-blue-600 mb-3">
@@ -154,7 +154,7 @@ export default function Contact() {
                                         <p className="text-gray-600">contact@legalexperts.com</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
